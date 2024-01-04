@@ -1,0 +1,31 @@
+# Go Binary
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Go Test and Benchmark
+*.test
+*.prof
+
+# Go Coverage Profile
+*.cover
+
+# Go Build Output
+/bin/
+/pkg/
+
+# Go Documentation
+/doc/
+
+# Go Generated Files
+*.pb.go
+*.pb.gw.go
+*.swagger.json
+
+# Go Vendor Directory
+/vendor/
+
+# Go IDE Files
+.idea/
+.vscode/
